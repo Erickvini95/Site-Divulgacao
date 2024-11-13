@@ -1,8 +1,12 @@
 @charset "UT-8";
 
 body{
-    background-image: url('../imagens/imgfundo.jpg');
+    background-image: url('../imagens/Imagemfundo.png');
 }
 header{
     background-color: blue;
+}
+
+section {
+    background-color: aliceblue;
 }
