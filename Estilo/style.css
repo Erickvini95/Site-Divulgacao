@@ -1,7 +1,7 @@
 @charset "UT-8";
 
 body{
-    background-color: red;
+    background-image: url('imgfundo.jpg');
 }
 header{
     background-color: blue;
