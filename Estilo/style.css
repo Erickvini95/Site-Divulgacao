@@ -17,13 +17,24 @@ header img{
     min-height: 20px;
     margin-bottom: 12px;
     word-break: break-word;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .slogan{
     font-size: 18px;
 }
 
-section {
-    background-color: aliceblue;
+.rede_social {
+ 
+   
+
+}
+
+.img_rede_social {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+
 }
 .botao{
     display: flex;
