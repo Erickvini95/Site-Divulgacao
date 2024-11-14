@@ -12,10 +12,20 @@ header img{
     height: auto;
     width: 10%;
 }
-header h1{
-    margin: auto;
+.cabecalho{
+    line-height: 10px;
+    min-height: 20px;
+    margin-bottom: 12px;
+    word-break: break-word;
+}
+.slogan{
+    font-size: 18px;
 }
 
 section {
     background-color: aliceblue;
+}
+.botao{
+    display: flex;
+    justify-content: center;
 }
