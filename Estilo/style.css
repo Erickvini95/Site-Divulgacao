@@ -4,7 +4,16 @@ body{
     background-image: url('../imagens/Imagemfundo.png');
 }
 header{
-    background-color: blue;
+    text-align: center;
+    color: white;
+    
+}
+header img{
+    height: auto;
+    width: 10%;
+}
+header h1{
+    margin: auto;
 }
 
 section {
