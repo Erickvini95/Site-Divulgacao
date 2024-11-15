@@ -50,3 +50,25 @@ a{
 .botao_1:hover{
     box-shadow: 0 3px 5px   
 }
+
+h2.produtos{
+    padding-top: 2%;
+}
+section.destaque_produtos{
+    background: radial-gradient(#0D0D0D,#6E6E6D);
+    color: white;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10px;  
+}
+
+div.destaque{
+    display: flex;
+    border-radius: 5px;
+    padding-bottom: 50px;
+}
+
+img.imagem2{
+    margin-left: 200px;
+}
