@@ -23,20 +23,30 @@ header img{
     font-size: 18px;
 }
 
-.rede_social {
- 
-   
-
+.icone:hover{
+    transform: scale(1.1);
 }
 
 .img_rede_social {
     display: flex;
     justify-content: center;
     gap: 30px;
-
-
 }
-.botao{
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.botao_1{
+    background: radial-gradient(#0D0D0D,#6E6E6D);
     display: flex;
     justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10px;
+}
+
+.botao_1:hover{
+    box-shadow: 0 3px 5px   
 }
