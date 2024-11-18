@@ -61,14 +61,13 @@ section.destaque_produtos{
     margin-left: 30%;
     margin-right: 30%;
     border-radius: 10px;  
+    gap: 20px;
+    padding-bottom: 30px;
 }
 
 div.destaque{
     display: flex;
-    border-radius: 5px;
-    padding-bottom: 50px;
+    gap: 20px;
+    margin-left: 30px;
 }
 
-img.imagem2{
-    margin-left: 200px;
-}
